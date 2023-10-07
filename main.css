@@ -100,19 +100,19 @@ footer {
 
 @media screen and (max-width: 475px) {
   .logo {
-    width: 40%;
+    width: 35%;
   }
 
   img {
-    width: 12%;
+    width: 10%;
   }
 
   h1 {
-    font-size: 35px;
+    font-size: 30px;
   }
   
   
   h2 {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
