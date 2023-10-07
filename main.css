@@ -98,12 +98,21 @@ footer {
 }
 
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 475px) {
   .logo {
     width: 40%;
   }
 
   img {
-    width: 15%;
+    width: 12%;
+  }
+
+  h1 {
+    font-size: 35px;
+  }
+  
+  
+  h2 {
+    font-size: 20px;
   }
 }
