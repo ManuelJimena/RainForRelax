@@ -97,3 +97,13 @@ footer {
   min-height: 10vh;
 }
 
+
+@media screen and (max-width: 450px) {
+  .logo {
+    width: 40%;
+  }
+
+  img {
+    width: 15%;
+  }
+}
